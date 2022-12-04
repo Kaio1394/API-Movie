@@ -47,3 +47,5 @@ C:\Users\Usuario\source\repos\WebApplication1\WebApplication1\bin\Debug\netcorea
 C:\Users\Usuario\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Usuario\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Usuario\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Usuario\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Usuario\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

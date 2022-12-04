@@ -29,6 +29,7 @@ namespace WebApplication1
         {
             services.AddDbContext<FilmeContext>(opt => opt.UseMySQL(Configuration.GetConnectionString("FilmeConnection")));
             services.AddControllers();
+            services.AddAutoMapper(typeof(Startup));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
